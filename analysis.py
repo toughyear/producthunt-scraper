@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("/Users/rajeev/Downloads/products_async.csv")
+df = pd.read_csv("products_async_full.csv")
 
 
 # > head -3 products_async.csv                                                                            ─╯
